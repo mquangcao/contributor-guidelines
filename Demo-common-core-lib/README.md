@@ -114,7 +114,7 @@ N/A
 ## Resources
 
   * Resource Allocation: N/A
-  - Dev team: "Cao Minh Quang" <mqc@gmail.com?
+  - Dev team: "Cao Minh Quang" <mqc@gmail.com>
   - Test team: "Cao Minh Quang" <mqc@gmail.com>.
   * Onboarding and supporting: "Cao Minh Quang" <mqc@gmail.com>.
 
